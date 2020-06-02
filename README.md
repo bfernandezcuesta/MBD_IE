@@ -15,3 +15,6 @@ Projects done during Masters Program in Big Data and Analytics at IE University
 #### ML
 - ML 2 Karen & Blanca --> Abseenteism prediction
 - predictions.csv 
+
+#### Computer vision 
+- Morphology
